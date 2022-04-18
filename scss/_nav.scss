@@ -1,0 +1,59 @@
+@use '_myVariables';
+@use '_myMixins';
+/*nav.scss*/
+  
+  /* Navigation */
+ #topNav{
+
+  padding: 20px 40px;
+
+  p{
+    text-align: center;
+  }
+
+  
+
+  ul {
+    @include myMixins.grid_n_gap(20px);
+    padding: 0;
+    list-style: none;
+    grid-template-columns: repeat(10, 1fr);
+
+    a {
+      background: #444;
+      display: block;
+      text-decoration: none;
+      padding: 0.8rem 0;
+      text-align: center;
+      color: myVariables.$light;
+      font-size: myVariables.$nav-font-size;
+      border: none;
+      line-height:14px;
+    }
+
+    a:hover {
+      background: myVariables.$dark;
+      color: myVariables.$light;
+    }
+  }
+}
+
+@media only screen and (max-width: 1300px)  {
+  #topNav{
+      ul {
+        grid-template-columns: repeat(5, 1fr);
+      }
+
+  }
+}
+
+@media only screen and (max-width: 560px)  {
+  #topNav{
+      ul {
+        grid-template-columns: repeat(3, 1fr);
+      }
+
+  }
+}
+
+ 

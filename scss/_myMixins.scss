@@ -1,0 +1,36 @@
+@mixin grid_n_gap($gap:20px) {
+    display: grid;
+    row-gap: $gap;
+    column-gap: $gap;
+}
+
+
+@mixin centerSelf {
+    align-self: center;
+    justify-self: center;
+}
+
+@mixin centerItems {
+    align-items: center;
+    justify-items: center;
+}
+
+@mixin justifyItems {
+    justify-items: center;
+}
+
+@mixin alignItems {
+    align-items: center;
+}
+
+@mixin gridTemplateSpec($times:1){
+    grid-template-columns: repeat($times, minmax(auto,1fr));
+}
+
+@mixin gridTemplateSpecOne{
+    grid-template-columns: 1fr;
+}
+
+
+
+
