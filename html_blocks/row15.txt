@@ -1,0 +1,5 @@
+<form class="row">
+    <label>Email:</label>
+    <input type="email" name="email"> 
+    <button type="submit">Send</button>  
+</form>

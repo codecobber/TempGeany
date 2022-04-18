@@ -1,0 +1,19 @@
+<div class="r18a">
+<h2>The flowers bloom!</h2>
+<p>The following examples include an image of how the example 
+should look in a supporting browser, they each link to a 
+page with more information about the technique being shown, 
+code and a CodePen of the example. Unless otherwise noted 
+these examples work in any browser supporting the up to 
+date Grid Specification</p>
+</div>
+
+<div class="r18b">
+<img src='img/cat.jpg' alt="">
+<img src='img/flowers.jpg' alt="">
+</div>
+
+<div class="r18c">
+<img src='img/cat.jpg' alt="">
+<img src='img/flowers.jpg' alt="">
+</div>

@@ -1,0 +1,2 @@
+<img class="img-fluid" src="img/video.jpg" alt="alternative">
+<div><span class="video-play-button"></span></div>                              

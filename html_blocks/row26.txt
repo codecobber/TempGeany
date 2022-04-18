@@ -1,0 +1,15 @@
+<form>
+  <label class="r26a" for="nameInput">Your name</label>
+  <input class="r26b" type="text" placeholder="test@mailbox.com" id="nameInput">
+  <label class="r26c" for="emailInput">Your email</label>
+  <input class="r26d" type="email" placeholder="test@mailbox.com" id="emailInput">
+  <label class="r26e" for="recipientInput">Reason for contacting</label>
+  <select class="r26f" id="recipientInput">
+    <option value="Option 1">General enquiry</option>
+    <option value="Option 2">Sales enquiry</option>
+    <option value="Option 3">Something else</option>
+  </select>
+  <label class="r26g" for="message">Message</label>
+  <textarea class="r26h" placeholder="Hello …" id="message"></textarea>
+  <input class="r26i" type="submit" value="Submit">
+</form>

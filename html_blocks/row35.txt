@@ -1,0 +1,24 @@
+
+  <div>
+    <img src='img/150x150.jpg' alt="">   
+    <h3>Lorum</h3>
+    <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.
+    </p>
+  </div>
+  <div>
+    <img src='img/150x150.jpg' alt="">
+    <h3>Ipsum</h3>
+    <p>
+      Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.
+    </p>
+  </div>
+  <div>
+    <img src='img/150x150.jpg' alt="">
+    <h3>Dolor</h3>
+    <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+  </div>
+  <div>
+    <img src='img/150x150.jpg' alt="">
+    <h3>Sit Amet</h3>
+    <p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. Sed nec diam eu diam mattis viverra. Nulla fringilla, orci ac euismod semper, magna.</p>
+  </div>

@@ -1,0 +1,7 @@
+
+<a href="link1"><img src="img/customer-logo-1.png" alt=""></a>
+<a href="link1"><img src="img/customer-logo-2.png" alt=""></a>
+<a href="link1"><img src="img/customer-logo-3.png" alt=""></a>
+<a href="link1"><img src="img/customer-logo-4.png" alt=""></a>
+<a href="link1"><img src="img/customer-logo-5.png" alt=""></a>
+<a href="link1"><img src="img/customer-logo-6.png" alt=""></a>

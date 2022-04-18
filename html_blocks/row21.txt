@@ -1,0 +1,15 @@
+<div>
+    <img src='img/400x200.jpg'>
+    <h4>Illnesses &amp; conditions</h4>
+    <p>Bacon ipsum dolor sit amet nulla </p>
+</div>
+<div>
+    <img src='img/400x200.jpg'>
+    <h4>Illnesses &amp; conditions</h4>
+    <p>Bacon ipsum dolor sit amet nulla </p>
+</div>
+<div>
+    <img src='img/400x200.jpg'>
+    <h4>Illnesses &amp; conditions</h4>
+    <p>Bacon ipsum dolor sit amet nulla </p>
+</div>

@@ -1,0 +1,23 @@
+
+<div class="r32a">
+  <h2>Your Business On The Web</h2>
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae alias reiciendis deleniti possimus nemo non repellendus?
+    Quae atque vero modi quidem! Autem cupiditate fugit doloribus ad amet, asperiores provident commodi.</p>
+  <a href="#" class="btn">Learn More</a>
+</div>
+<div class="r32b">
+  <h2>Interesting links</h2>
+  <ul>
+  <li><a href="#">Item one</a></li>
+  <li><a href="#">Item two</a></li>
+  <li><a href="#">Item three</a></li>
+  <li><a href="#">Item four</a></li>
+  <li><a href="#">Item five</a></li>
+  <li><a href="#">Item six</a></li>
+  <li><a href="#">Item seven</a></li>
+  </ul>
+</div>
+
+
+
+

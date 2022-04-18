@@ -1,0 +1,24 @@
+<div>
+    <div>
+        <img src='img/450x350.jpg' alt="">
+    </div>
+    <p class="profile-description">
+        <strong>Try growing your network:</strong>
+        Fruit subdue lesser. Fly green, was, isn't grass were male, 
+        bring male them waters. A beginning fowl created void fifth have, 
+        you're blessed days female moveth give were saw, form you'll great day own morning may.</p>
+    <a class="button radius" href="#">Learn more</a>
+</div>
+
+<div>
+    <div>
+        <img src='img/450x350.jpg' alt="">
+    </div>
+    <p class="profile-description">
+        <strong>Try growing your network:</strong>
+        Fruit subdue lesser. Fly green, was, isn't grass were male, 
+        bring male them waters. A beginning fowl created void fifth have, 
+        you're blessed days female moveth give were saw, form you'll great day own morning may.</p>
+    <a class="button radius" href="#">Learn more</a>
+</div>
+                           

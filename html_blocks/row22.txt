@@ -1,0 +1,14 @@
+<div class="r22a">
+        <h4>Injuries</h4>
+        <p>Bacon ipsum dolor sit amet nulla Bacon ipsum dolor sit amet nulla Bacon ipsum dolor sit amet nulla Bacon ipsum dolor sit amet nulla Bacon ipsum dolor sit amet nulla Bacon ipsum dolor sit amet nulla.</p>
+</div>
+
+<div class="r22b">
+    <p><img src='img/400x200.jpg' alt=""></p>
+    <p><img src='img/400x200.jpg' alt=""></p>
+    <p><img src='img/400x200.jpg' alt=""></p>
+    <p><img src='img/400x200.jpg' alt=""></p>
+    <p><img src='img/400x200.jpg' alt=""></p>
+    <p><img src='img/400x200.jpg' alt=""></p>
+</div>
+

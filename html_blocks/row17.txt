@@ -1,0 +1,24 @@
+
+<div class="block17">
+    <img src='img/400x200.jpg' alt="">
+    <p><a class="imgPlace block17b href="#">Interesting article</a></p>
+    <p class=" block17c">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae impedit beatae, ipsum delectus aperiam nesciunt magni facilis ullam.</p>
+</div>
+
+<div class="block17">
+    <img src='img/400x200.jpg' alt="">
+    <p><a class="imgPlace block17b href="#">Interesting article</a></p>
+    <p class=" block17c">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae impedit beatae, ipsum delectus aperiam nesciunt magni facilis ullam.</p>
+</div>
+
+<div class="block17">
+    <img src='img/400x200.jpg' alt="">
+    <p><a class="imgPlace block17b href="#">Interesting article</a></p>
+    <p class=" block17c">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae impedit beatae, ipsum delectus aperiam nesciunt magni facilis ullam.</p>
+</div>
+
+<div class="block17">
+    <img src='img/400x200.jpg' alt="">
+    <p><a class="imgPlace block17b href="#">Interesting article</a></p>
+    <p class=" block17c">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae impedit beatae, ipsum delectus aperiam nesciunt magni facilis ullam.</p>
+</div>

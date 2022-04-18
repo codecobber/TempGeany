@@ -1,0 +1,23 @@
+<div>
+    <img src='img/300x150.jpg' alt="">
+</div>
+
+<div>
+<h2>Spring</h2>
+<p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta. </p>
+</div>
+
+<div>
+<img src='img/300x150.jpg' alt="">
+</div>
+
+<div>
+<h2>Summer</h2>
+<p>Vivamus luctus urna sed urna ultricies ac tempor dui sagittis. In condimentum facilisis porta.</p>
+</div>
+
+
+
+
+
+

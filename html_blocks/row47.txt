@@ -1,0 +1,17 @@
+<!-- Trigger/Open The Modal -->
+<button id="modalBtn">Open Modal</button>
+
+<!-- The Modal -->
+<div id="modalBlock" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="modalClose">&times;</span>
+    <p>Some text in the Modal..</p>
+  </div>
+
+</div>
+
+
+
+

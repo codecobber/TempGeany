@@ -1,0 +1,8 @@
+<div class="row28Cont"> 
+    <h3>Your Full bg image</h3>
+    <h4>Background image</h4>
+    <p>Just add the background image via css in the saved project<br> using the id</p>
+    <a class="button" href="#">lean more</a>
+</div> 
+    
+        

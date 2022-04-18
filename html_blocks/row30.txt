@@ -1,0 +1,15 @@
+
+<div class="r30a">
+<p><img src='img/green.jpg' alt=""></p>
+</div>
+
+<div class="r30b">
+    <p><img src='img/staff1.jpg' alt="">Steph</p>
+    <p><img src='img/staff2.jpg' alt="">Andrea</p>
+    <p><img src='img/staff3.jpg' alt="">Kevin</p>
+    <p><img src='img/staff4.jpg' alt="">Marcella</p>
+    <p><img src='img/staff5.jpg' alt="">Paul</p>
+    <p><img src='img/staff6.jpg' alt="">Henry</p>
+    <p><img src='img/staff7.jpg' alt="">Jean</p>
+    <p><img src='img/staff8.jpg' alt="">Sally</p>
+</div>

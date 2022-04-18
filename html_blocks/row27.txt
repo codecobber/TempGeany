@@ -1,0 +1,30 @@
+<div class="r271">
+    <div>
+        <img src='img/450x350.jpg' alt="">
+    </div>
+    <p class="profile-description">
+        <strong>Try growing your network:</strong>
+        Fruit subdue lesser. Fly green, was, isn't grass were male, 
+        bring male them waters. A beginning fowl created void fifth have, 
+        you're blessed days female moveth give were saw, form you'll great day own morning may.</p>
+    <a class="button radius" href="#">Learn more</a>
+</div>
+
+
+<form>
+   <label class="r27a" for="nameInput">Your name</label>
+   <input class="r27b" type="text" placeholder="test@mailbox.com" id="nameInput">
+   <label class="r27c" for="emailInput">Your email</label>
+   <input class="r27d" type="email" placeholder="test@mailbox.com" id="emailInput">
+   <label class="r27e" for="recipientInput">Reason for contacting</label>
+   <select class="r27f" id="recipientInput">
+       <option value="Option 1">General enquiry</option>
+       <option value="Option 2">Sales enquiry</option>
+       <option value="Option 3">Something else</option>
+   </select>
+   <label class="r27g" for="message">Message</label>
+   <textarea class="r27h" placeholder="Hello …" id="message"></textarea>
+   <input class="r27i" type="submit" value="Submit">
+</form>
+
+                           
