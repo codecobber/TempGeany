@@ -8,15 +8,17 @@
 
   .row{
     @include myMixins.grid_n_gap(20px);
-    padding:2.2rem 2rem;
+    padding:2.2rem 2rem; 
     @include myMixins.gridTemplateSpecOne; /* One column*/
-    
-    /* Align text to center*/
-    text-align:left;
   }
 
   /* Screen larger than 270px? */
   @media (min-width: 270px) { 
+
+    .text-left
+    {
+      text-align: left;
+    }
 
     .rowNo06{
       row-gap: 8rem;
@@ -343,7 +345,7 @@
   @media (min-width: 768px) { 
     /* two cols*/
     .rowNo02,.rowNo10,.rowNo48{ 
-      text-align: left;
+    
       @include myMixins.gridTemplateSpec(2);
 
       div {
